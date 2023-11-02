@@ -1,0 +1,72 @@
+/* Login.module.css */
+ body {
+    background-color: #fff; /* Set background color of the body to white (#fff) */
+  } 
+  
+.loginSignupHeader {
+    font-weight: 600;
+    font-size: 30px;
+    color: #ef7917;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .loginForm {
+    background-color: #fff; /* Set background color to white */
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    margin: 50px auto;
+    border-radius: 6px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);
+    text-align: center;
+  }
+  
+  .field {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .field input {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    font-size: 15px;
+    transition: border-color 0.2s;
+  }
+  
+  .field input:focus {
+    outline: none;
+    border-color: #ef7917;
+  }
+  
+  .field button {
+    width: 100%;
+    margin-top: 20px;
+    background: #ef7917;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 20px;
+    padding: 12px;
+    border: none;
+    outline: none;
+    transition: background-color 0.2s;
+  }
+  
+  .field button:hover {
+    cursor: pointer;
+    background-color: #d36f0d;
+  }
+  
+  .field button:disabled {
+    cursor: not-allowed;
+    background-color: #ccc;
+  }
+  

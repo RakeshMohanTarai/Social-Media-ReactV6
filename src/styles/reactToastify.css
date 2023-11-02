@@ -1,0 +1,44 @@
+/* toastify.css */
+
+/* Style for the toast container */
+.Toastify__toast-container {
+    position: fixed;
+    z-index: 9999;
+    top: 20px; /* Adjust the top position as needed */
+    right: 20px; /* Adjust the right position as needed */
+  }
+  
+  /* Style for the toast */
+  .Toastify__toast {
+    background: #333; /* Background color of the toast */
+    color: #fff; /* Text color of the toast */
+    font-size: 14px; /* Font size of the toast text */
+    border-radius: 5px; /* Border radius for the toast */
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2); /* Box shadow for the toast */
+  }
+  
+  /* Style for the close button */
+  .Toastify__close-button {
+    color: #fff; /* Color of the close button */
+  }
+  
+  /* Style for the success toast */
+  .Toastify__toast--success {
+    background: #28a745; /* Background color for success toasts */
+  }
+  
+  /* Style for the error toast */
+  .Toastify__toast--error {
+    background: #dc3545; /* Background color for error toasts */
+  }
+  
+  /* Style for the info toast */
+  .Toastify__toast--info {
+    background: #17a2b8; /* Background color for info toasts */
+  }
+  
+  /* Style for the warning toast */
+  .Toastify__toast--warning {
+    background: #ffc107; /* Background color for warning toasts */
+  }
+  
