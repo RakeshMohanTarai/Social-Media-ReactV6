@@ -1,10 +1,10 @@
-# Welcome to My Social Media App! 🌐✨
+# Welcome to My Social Media App! 🌐✨📱
 
-This project was developed using React and Firebase to provide you with a platform for social interaction and sharing memorable moments. 📱
+This project was developed using React and Firebase to provide you with a platform for social interaction and sharing memorable moments. 📱📷
 
 ## 🚀 Deployment 🚀
 
-You can access the live app on Firebase.com by following this link: social-media-project-7c026.firebaseapp.com 🌐✨.
+You can access the live app on Firebase.com by following this link: [Access the App](http://social-media-project-7c026.firebaseapp.com) 🌐✨.
 
 ## Available Scripts
 
