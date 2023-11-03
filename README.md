@@ -4,7 +4,7 @@ This project was developed using React and Firebase to provide you with a platfo
 
 ## 🚀 Deployment 🚀
 
-You can access the live app on Firebase.com by following this link: [Access the App on Firebase.com](social-media-project-7c026.firebaseapp.com) 🌐✨.
+You can access the live app on Firebase.com by following this link: social-media-project-7c026.firebaseapp.com 🌐✨.
 
 ## Available Scripts
 
