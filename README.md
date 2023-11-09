@@ -4,7 +4,9 @@ This project was developed using React and Firebase to provide you with a platfo
 
 ## 🚀 Deployment 🚀
 
-You can access the live app on Firebase.com by following this link: [Access the App](http://social-media-project-7c026.firebaseapp.com) 🌐✨.
+##Note :- If the 
+
+You can access the live app on Netlify.com by following this link: [Access the App](https://ornate-peony-7e5923.netlify.app/) 🌐✨.
 
 ## Available Scripts
 
